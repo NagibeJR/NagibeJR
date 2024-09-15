@@ -3,7 +3,7 @@
 
 
 - 📕 Estudante Sistemas da Informação 8/9
-- 🧑‍💻Diretor Administrativo da [ItaTech JR.](https://itatechjr.com.br)
+- 🧑‍💻 Desenvolvedor na [ItaTech JR.](https://itatechjr.com.br)
 
 ---
 
