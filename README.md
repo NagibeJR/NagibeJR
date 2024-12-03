@@ -2,7 +2,7 @@
 
 
 
-- 📕 Estudante Sistemas da Informação 8/9
+- 📕 Estudante Sistemas da Informação 9/9
 - 🧑‍💻 Desenvolvedor na [ItaTech JR.](https://itatechjr.com.br)
 
 ---
